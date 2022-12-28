@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "803833854370",
+    "project_id": "app2-be99c",
+    "storage_bucket": "app2-be99c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803833854370:android:749ce366dcc869c8b31afb",
+        "android_client_info": {
+          "package_name": "com.mooner92.fapp_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803833854370-0l4d0mcismscrfi56cgtm2gcq1j2nsrr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn8z8BuoPASf3qONYDKPi8EACP1dfmRCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803833854370-0l4d0mcismscrfi56cgtm2gcq1j2nsrr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "803833854370-6ogobjj5c63skshuqpd9n1bd6clqnma9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mooner92.fapp2"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
